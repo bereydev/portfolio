@@ -7,7 +7,7 @@ button:
   toggle_langs: Change languages
 intro:
   desc: Programmation and Design portfolio of Jonathan Bereyziat
-  coming-soon: The presentation of my projects is coming soon...
+  coming-soon: First projects are coming soon...
   dynamic-route: Demo of dynamic route
   hi: Hi, {name}!
   aka: Also known as

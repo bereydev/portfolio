@@ -7,7 +7,7 @@ button:
   toggle_langs: Changer de langue
 intro:
   desc: Portfolio de programmation et de design par Jonathan Bereyziat
-  coming-soon: La présentation de mes projets arrive bientôt...
+  coming-soon: Mes premiers projets arrive bientôt...
   dynamic-route: Démo de route dynamique
   hi: Salut, {name}!
   aka: Aussi connu sous le nom de
