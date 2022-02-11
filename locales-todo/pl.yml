@@ -1,12 +1,13 @@
 button:
   about: O nas
-  back: Wróć
+  back: Powrot
   go: WEJDŹ
   home: Strona główna
   toggle_dark: Ustaw tryb nocny
   toggle_langs: Zmień język
 intro:
-  desc: Opiniowany szablon startowy Vite
+  desc: Programmation and Design portfolio of Jonathan Bereyziat
+  coming-soon: The presentation of my projects is coming soon...
   dynamic-route: Demonstracja dynamicznego route
   hi: Cześć, {name}!
   aka: Znany też jako
