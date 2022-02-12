@@ -6,7 +6,7 @@ button:
   toggle_dark: Включить темный режим
   toggle_langs: Сменить язык
 intro:
-  desc: Портфолио программирования и дизайна от Janathan Bereyziat
+  desc: Портфолио программирования и дизайна от Jonathan Bereyziat
   coming-soon: Скоро появятся мои первые проекты...
   dynamic-route: Демо динамического маршрута
   hi: Привет, {name}!
