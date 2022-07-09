@@ -41,14 +41,14 @@ const { t } = useI18n()
             </p>
             <div class="relative flex flex-col sm:flex-row sm:space-x-4">
               <a
-                href="#_"
-                class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-md sm:mb-0 hover:bg-indigo-700 sm:w-auto"
+                href="https://calendly.com/bereydev"
+                class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-indigo-600 rounded-full sm:mb-0 hover:bg-indigo-700 sm:w-auto"
               >
                 Let's talk
               </a>
               <a
-                href="#_"
-                class="flex items-center px-6 py-3 text-gray-500 bg-gray-100 rounded-md hover:bg-gray-200 hover:text-gray-600"
+                href="mailto:contact@bereyziat.dev"
+                class="flex items-center px-6 py-3 text-gray-500 bg-gray-100 rounded-full hover:bg-gray-200 hover:text-gray-600"
               >
                 Send us an email
               </a>
@@ -87,7 +87,7 @@ const { t } = useI18n()
           Brainstorm <br> with our engineers
         </h2>
         <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-2xl">
-          Let's build together a strategic approach to your project in creative atmosphere. <br>Our young team makes cool look easy.
+          Let's build together a strategic approach to your project in a creative atmosphere. <br>Our young team makes cool look easy.
         </p>
       </div>
       <!-- End  Content -->
@@ -97,33 +97,37 @@ const { t } = useI18n()
     >
       <!-- Content -->
       <div class="box-border w-full text-black border-solid md:w-1/2 md:pl-6 xl:pl-32">
-        <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
+        <h2 class="m-0 text-3xl font-semibold leading-tight border-0 border-gray-300 lg:text-5xl md:text-4xl">
           Design a product plan
         </h2>
-        <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-10 lg:text-lg">
-          Save time and money with our revolutionary services. We are the leaders in the industry.
-        </p>
-        <ul class="p-0 m-0 leading-6 border-0 border-gray-300">
+        <ul class="p-0 m-0 pt-4 leading-6 border-0 border-gray-300">
           <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
             <span
-              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"
+              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-purple-500 rounded-full"
             ><span
               class="text-sm font-bold"
-            >✓</span></span> Automated task management workflow
+            >✓</span></span> <span class="text-2xl">We help you decide what tech would fit the best your needs</span>
           </li>
           <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
             <span
-              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"
+              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-purple-500 rounded-full"
             ><span
               class="text-sm font-bold"
-            >✓</span></span> Detailed analytics for your data
+            >✓</span></span> <span class="text-2xl">We define the steps to succeed with your idea</span>
           </li>
           <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
             <span
-              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"
+              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-purple-500 rounded-full"
             ><span
               class="text-sm font-bold"
-            >✓</span></span> Some awesome integrations
+            >✓</span></span> <span class="text-2xl">We define together a timeframe and a budget</span>
+          </li>
+          <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
+            <span
+              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-purple-500 rounded-full"
+            ><span
+              class="text-sm font-bold"
+            >✓</span></span> <span class="text-2xl">We provide you with a free mock-up preview</span>
           </li>
         </ul>
       </div>
@@ -151,101 +155,14 @@ const { t } = useI18n()
 
       <!-- Content -->
       <div class="box-border order-first w-full text-black border-solid md:w-1/2 md:pl-10 md:order-none">
-        <h2 class="m-0 text-xl font-semibold leading-tight border-0 border-gray-300 lg:text-3xl md:text-2xl">
-          ☕️ Make it happen
+        <h2 class="m-0 text-3xl font-semibold leading-tight border-0 border-gray-300 lg:text-5xl md:text-4xl">
+          Make it happen
         </h2>
-        <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-lg">
+        <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 border-gray-300 sm:pr-12 xl:pr-32 lg:text-2xl">
           Build an atmosphere that creates productivity in your organization and your company culture.
         </p>
-        <ul class="p-0 m-0 leading-6 border-0 border-gray-300">
-          <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-            <span
-              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"
-            ><span
-              class="text-sm font-bold"
-            >✓</span></span> Maximize productivity and growth
-          </li>
-          <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-            <span
-              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"
-            ><span
-              class="text-sm font-bold"
-            >✓</span></span> Speed past your competition
-          </li>
-          <li class="box-border relative py-1 pl-0 text-left text-gray-500 border-solid">
-            <span
-              class="inline-flex items-center justify-center w-6 h-6 mr-2 text-white bg-yellow-300 rounded-full"
-            ><span
-              class="text-sm font-bold"
-            >✓</span></span> Learn the top techniques
-          </li>
-        </ul>
       </div>
       <!-- End  Content -->
-    </div>
-  </section>
-
-  <!-- Section 4 -->
-  <section class="py-20 bg-gray-50">
-    <div class="container items-center max-w-6xl px-4 px-10 mx-auto sm:px-20 md:px-32 lg:px-16">
-      <div class="flex flex-wrap items-center -mx-3">
-        <div class="order-1 w-full px-3 lg:w-1/2 lg:order-0">
-          <div class="w-full lg:max-w-md">
-            <h2 class="mb-4 text-3xl font-bold leading-tight tracking-tight sm:text-4xl font-heading">
-              Jam-packed with
-              all the tools you need to succeed!
-            </h2>
-            <p class="mb-4 font-medium tracking-tight text-gray-400 xl:mb-6">
-              It's never been easier to build a business
-              of your own. Our tools will help you with the following:
-            </p>
-            <ul>
-              <li class="flex items-center py-2 space-x-4 xl:py-3">
-                <svg
-                  class="w-8 h-8 text-pink-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                    d="M9 3v2m6-2v2M9 19v2m6-2v2M5 9H3m2 6H3m18-6h-2m2 6h-2M7 19h10a2 2 0 002-2V7a2 2 0 00-2-2H7a2 2 0 00-2 2v10a2 2 0 002 2zM9 9h6v6H9V9z"
-                  />
-                </svg>
-                <span class="font-medium text-gray-500">Faster Processing and Delivery</span>
-              </li>
-              <li class="flex items-center py-2 space-x-4 xl:py-3">
-                <svg
-                  class="w-8 h-8 text-yellow-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                    d="M20 7l-8-4-8 4m16 0l-8 4m8-4v10l-8 4m0-10L4 7m8 4v10M4 7v10l8 4"
-                  />
-                </svg>
-                <span class="font-medium text-gray-500">Out of the Box Tracking and Monitoring</span>
-              </li>
-              <li class="flex items-center py-2 space-x-4 xl:py-3">
-                <svg
-                  class="w-8 h-8 text-green-500" fill="none" stroke="currentColor" viewBox="0 0 24 24"
-                  xmlns="http://www.w3.org/2000/svg"
-                >
-                  <path
-                    stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
-                    d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"
-                  />
-                </svg>
-                <span class="font-medium text-gray-500">100% Protection and Security for Your App</span>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="w-full px-3 mb-12 lg:w-1/2 order-0 lg:order-1 lg:mb-0">
-          <img
-            class="mx-auto sm:max-w-sm lg:max-w-full"
-            src="https://cdn.devdojo.com/images/november2020/feature-graphic.png" alt="feature image"
-          >
-        </div>
-      </div>
     </div>
   </section>
 
