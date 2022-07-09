@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <style>
-    path { fill: #222; }
-    @media (prefers-color-scheme: dark) {
-      path { fill: #ffffff; }
-    }
-  </style>
-  <path d="M27.562 26L17.17 8.928l2.366-3.888L17.828 4L16 7.005L14.17 4l-1.708 1.04l2.366 3.888L4.438 26H2v2h28v-2zM16 10.85L25.22 26H17v-8h-2v8H6.78z" />
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 293.58 168.6"><defs><style>.cls-1{fill:url(#Dégradé_sans_nom_28);}.cls-2{fill:#fff;}</style><linearGradient id="Dégradé_sans_nom_28" x1="293.58" y1="84.3" x2="0" y2="84.3" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#19ffd8" stop-opacity="0.7"/><stop offset="0.5" stop-color="#7727d4" stop-opacity="0.7"/><stop offset="1" stop-color="#d200ab" stop-opacity="0.7"/></linearGradient></defs><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><rect class="cls-1" width="293.58" height="168.6" rx="82.71"/><circle class="cls-2" cx="209.24" cy="84.3" r="70.55"/></g></g></svg>
