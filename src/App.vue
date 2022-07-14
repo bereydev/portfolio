@@ -5,7 +5,7 @@
 useHead({
   title: 'Bereyziat Development',
   meta: [
-    { name: 'description', content: 'Programmation and design portfolio of Jonathan Bereyziat' },
+    { name: 'description', content: 'Welcome to Bereyziat Development. A dynamic team of developer seeking for the perfect code to make your projects come true.' },
   ],
 })
 </script>
