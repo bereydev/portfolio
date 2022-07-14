@@ -1,15 +1,30 @@
 button:
-  about: À propos de
-  back: Retour
-  go: Essayer
-  home: Accueil
-  toggle_dark: Basculer en mode sombre
-  toggle_langs: Changer de langue
-intro:
-  desc: Portfolio de programmation et de design par Jonathan Bereyziat
-  coming-soon: Mes premiers projets arrivent bientôt...
-  dynamic-route: Démo de route dynamique
-  hi: Salut, {name}!
-  aka: Aussi connu sous le nom de
-  whats-your-name: Comment t'appelles-tu ?
-not-found: Page non trouvée
+  send_mail: Envoyez-nous un email
+  talk: Discutons-en
+  contact: Contactez-nous
+  book_meeting: Prendre un rendez-vous gratuit de 30 mins
+hero:
+  title_1: Nous codons
+  title_2: votre réusite
+  desc: Notre équipe agile de développeurs vous aide à réaliser vos projets à l'aide des technologies les plus avancées du moment et de nos conseils commerciaux de qualité
+brainstorm:
+  title_1: Brainstormer
+  title_2: avec nos ingénieurs
+  desc_1:  Construisons ensemble une aproche stratégique pour votre projet au sein d'une atmosphère créative.
+  desc_2:  Avec notre équipe jeune et dynamique votre projet est entre de bonnes mains.
+plan:
+  title: Mettre au point un plan d'action
+  bullet_1: Nous vous aidons à choisir les technologies le mieux adaptées à vos besoins
+  bullet_2: Nous définissons les étapes pour réussir votre projet
+  bullet_3: Nous fixons une timeline et un budget
+  bullet_4: Nous vous offrons un aperçu gratuit de la maquette de votre projet
+launch:
+  title: Passer d'idée à réalité
+  desc_1: Nous construisons votre projet de A à Z pour que vous puissiez vous concentrer sur le coeur de votre idée.
+  desc_2: Laissez-vous vous aider à construire votre réussite.
+  not-found: Page introuvable
+reserved_rights: Tous droits réservés.
+country:
+  poland: Pologne
+  france: France
+  switzerland: Suisse

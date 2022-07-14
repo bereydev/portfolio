@@ -1,15 +1,30 @@
 button:
-  about: About
-  back: Back
-  go: GO
-  home: Home
-  toggle_dark: Toggle dark mode
-  toggle_langs: Change languages
-intro:
-  desc: Programmation and Design portfolio of Jonathan Bereyziat
-  coming-soon: First projects are coming soon...
-  dynamic-route: Demo of dynamic route
-  hi: Hi, {name}!
-  aka: Also known as
-  whats-your-name: What's your name?
+  send_mail: Send us an email
+  talk: Let's talk
+  contact: Contact us
+  book_meeting: Book a free 30 mins meeting
+hero:
+  title_1: We code your
+  title_2: success
+  desc: With our agile team of developers, we help you to develop your projects with the most advanced tech and first-class business advice.
+brainstorm:
+  title_1: Brainstorm
+  title_2: with our engineers
+  desc_1:  Let's build together a strategic approach to your project in a creative atmosphere.
+  desc_2:  Our young team makes cool look easy.
+plan:
+  title: Design a product plan
+  bullet_1: We help you decide what tech would fit the best your needs
+  bullet_2: We define the steps to succeed with your idea
+  bullet_3: We define together a timeframe and a budget
+  bullet_4: We provide you with a free mock-up preview
+launch:
+  title: Make it happen
+  desc_1: We build your project from A to Z so you can focus on your unique selling point.
+  desc_2: Let us help build your success!
 not-found: Not found
+reserved_rights: All rights reserved.
+country:
+  poland: Poland
+  france: France
+  switzerland: Switzerland

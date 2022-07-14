@@ -11,7 +11,6 @@ declare module 'vue' {
     CarbonSun: typeof import('~icons/carbon/sun')['default']
     Footer: typeof import('./components/Footer.vue')['default']
     FooterSection: typeof import('./components/FooterSection.vue')['default']
-    FooterSections: typeof import('./components/FooterSections.vue')['default']
     NavBar: typeof import('./components/NavBar.vue')['default']
     PricingSection: typeof import('./components/PricingSection.vue')['default']
     README: typeof import('./components/README.md')['default']

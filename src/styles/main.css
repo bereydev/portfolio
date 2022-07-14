@@ -41,3 +41,9 @@ html.dark {
     hover:opacity-100 hover:text-teal-600;
   font-size: 0.9em;
 }
+
+.gradient-title {
+  background: linear-gradient(90deg, rgba(221,78,197,1) 0%, rgba(179,97,217,1) 35%, rgba(129,175,226,1) 58%, rgba(98,247,228,1) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
