@@ -5,10 +5,12 @@
 declare module 'vue' {
   export interface GlobalComponents {
     Banner: typeof import('./components/Banner.vue')['default']
+    CarbonDicomOverlay: typeof import('~icons/carbon/dicom-overlay')['default']
     CarbonLanguage: typeof import('~icons/carbon/language')['default']
     CarbonLogoGithub: typeof import('~icons/carbon/logo-github')['default']
     CarbonMoon: typeof import('~icons/carbon/moon')['default']
     CarbonSun: typeof import('~icons/carbon/sun')['default']
+    CarbonWarning: typeof import('~icons/carbon/warning')['default']
     Footer: typeof import('./components/Footer.vue')['default']
     FooterSection: typeof import('./components/FooterSection.vue')['default']
     NavBar: typeof import('./components/NavBar.vue')['default']
