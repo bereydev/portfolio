@@ -6,22 +6,22 @@ button:
 hero:
   title_1: Nous codons
   title_2: votre réussite
-  desc: Notre équipe agile de développeurs vous aide à réaliser vos projets à l'aide des technologies les plus avancées du moment et de nos conseils commerciaux de qualité
+  desc: Notre équipe agile de développeurs vous aide à réaliser vos projets. Pour y parvenir nous utilisons les technologies les plus avancées du moment et nous vous fournissons des conseils commerciaux de qualité.
 brainstorm:
-  title_1: Brainstormer
+  title_1: Brainstormez
   title_2: avec nos ingénieurs
   desc_1:  Construisons ensemble une approche stratégique pour votre projet au sein d'une atmosphère créative.
-  desc_2:  Avec notre équipe jeune et dynamique votre projet est entre de bonnes mains.
+  desc_2:  Confiez votre projet à notre équipe compétente et dynamique.
 plan:
-  title: Mettre au point un plan d'action
-  bullet_1: Nous vous aidons à choisir les technologies le mieux adaptées à vos besoins
-  bullet_2: Nous définissons les étapes pour réussir votre projet
-  bullet_3: Nous fixons une timeline et un budget
-  bullet_4: Nous vous offrons un aperçu gratuit de la maquette de votre projet
+  title: Mettons au point un plan d'action
+  bullet_1: Nous vous aidons à choisir les technologies adaptées à vos besoins
+  bullet_2: Nous définissons les étapes pour votre réussite
+  bullet_3: Nous organisons votre projet dans le temps et ciblons votre budget
+  bullet_4: Nous vous offrons un aperçu gratuit de notre proposition
 launch:
-  title: Passer d'idée à réalité
-  desc_1: Nous construisons votre projet de A à Z pour que vous puissiez vous concentrer sur le coeur de votre idée.
-  desc_2: Laissez-nous vous aider à construire votre réussite.
+  title: Passons à l'action
+  desc_1: Nous prenons en charge toute la réalisation technologique. Vous vous concentrer sur le coeur de votre idée.
+  desc_2: Ensemble construisons votre réussite.
   not-found: Page introuvable
 reserved_rights: Tous droits réservés.
 country:
