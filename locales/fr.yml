@@ -1,8 +1,8 @@
 button:
   send_mail: Envoyez-nous un email
-  talk: Discutons-en
+  talk: Parlons-en
   contact: Contactez-nous
-  book_meeting: Prendre un rendez-vous gratuit de 30 mins
+  book_meeting: Prenez un rendez-vous gratuit de 30 mins
 hero:
   title_1: Nous codons
   title_2: votre réussite
@@ -20,8 +20,9 @@ plan:
   bullet_4: Nous vous offrons un aperçu gratuit de notre proposition
 launch:
   title: Passons à l'action
-  desc_1: Nous prenons en charge toute la réalisation technologique. Vous vous concentrer sur le coeur de votre idée.
-  desc_2: Ensemble construisons votre réussite.
+  desc_1: Nous prenons en charge toute la réalisation technologique. 
+  desc_2: Vous vous concentrez sur le coeur de votre idée.
+  desc_3: Ensemble construisons votre réussite.
   not-found: Page introuvable
 reserved_rights: Tous droits réservés.
 country:
