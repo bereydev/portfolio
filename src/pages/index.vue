@@ -160,7 +160,8 @@ const { t } = useI18n()
         </h2>
         <p class="pt-4 pb-8 m-0 leading-7 text-gray-700 border-0 text-2xl border-gray-300 sm:pr-12 xl:pr-32">
           {{ t('launch.desc_1') }}<br>
-          {{ t('launch.desc_2') }}
+          {{ t('launch.desc_2') }}<br>
+          {{ t('launch.desc_3') }}
         </p>
       </div>
       <!-- End  Content -->
