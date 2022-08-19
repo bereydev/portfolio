@@ -9,6 +9,7 @@ declare module 'vue' {
     CarbonLogoGithub: typeof import('~icons/carbon/logo-github')['default']
     CarbonMoon: typeof import('~icons/carbon/moon')['default']
     CarbonSun: typeof import('~icons/carbon/sun')['default']
+    Dropdown: typeof import('./components/Dropdown.vue')['default']
     Footer: typeof import('./components/Footer.vue')['default']
     FooterSection: typeof import('./components/FooterSection.vue')['default']
     NavBar: typeof import('./components/NavBar.vue')['default']

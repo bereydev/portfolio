@@ -1,5 +1,4 @@
 <script setup lang="ts">
-
 const { t, availableLocales, locale } = useI18n()
 const locales = availableLocales
 
@@ -30,30 +29,28 @@ const toggleLocales = () => {
           <a href="#_" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Pricing</a>
           <a href="#_" class="mr-5 font-medium leading-6 text-gray-600 hover:text-gray-900">Blog</a>
         </nav> -->
-        <a
+        <div class="md:hidden">
+          <Dropdown />
+        </div>
+
+        <!-- <a
           href="#"
           class="text-base font-medium leading-6 text-gray-600 whitespace-no-wrap transition duration-150 ease-in-out block md:hidden hover:text-gray-900"
           @click="toggleLocales"
         >
           {{ locales[(locales.indexOf(locale) + 1) % locales.length].toUpperCase() }}
-        </a>
+        </a> -->
       </div>
 
       <div class="inline-flex items-center ml-5 space-x-6 hidden md:block lg:justify-end">
-        <a
-          href="#"
-          class="text-base font-medium leading-6 text-gray-600 whitespace-no-wrap transition duration-150 ease-in-out hover:text-gray-900"
-          @click="toggleLocales"
-        >
-          {{ locale.toUpperCase() }}
-        </a>
-
         <a
           href="mailto:contact@bereyziat.dev"
           class="inline-flex items-center justify-center px-4 py-2 text-base font-medium leading-6 text-white whitespace-no-wrap bg-purple-500 border border-transparent rounded-full shadow-sm hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-600"
         >
           {{ t('button.contact') }}
         </a>
+
+        <Dropdown />
       </div>
     </div>
   </section>
