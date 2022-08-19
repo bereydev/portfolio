@@ -1,0 +1,31 @@
+button:
+  send_mail: Wyślij nam maila
+  talk: Porozmawiajmy
+  contact: Skontaktuj się z nami
+  book_meeting: Zabookuj darmowe 30 minutowe spotkanie 
+hero:
+  title_1: Kodujemy
+  title_2: twój sukces
+  desc: Nasz zgrany zespół programistów pomoże Ci rozwinąć Twoje projekty, korzystając z najbardziej zaawansowanych technologii i oferując najwyższej klasy doradztwo biznesowe.
+brainstorm:
+  title_1: Burza mózgów
+  title_2: z naszymi inżynierami 
+  desc_1: Wspólnie, w kreatywnej atmosferze, opracujemy strategiczne podejście do Twojego projektu
+  desc_2: Zaufaj naszemu młodemu, ambitnemu zespołowi i jego nowoczesnemu podejściu do designu. 
+plan:
+  title: Zaprojektujmy plan produktu
+  bullet_1: Pomożemy Ci wybrać technologię skrojoną do Twoich potrzeb
+  bullet_2: Planujemy krok po kroku, jak obrócić Twój pomysł w sukces
+  bullet_3: Wspólnie ustalamy ramy czasowe i budżet
+  bullet_4: Zapewniamy bezpłatny mock-up
+launch:
+  title: Do dzieła!
+  desc_1: Technologiczne sprawy pozostaw w naszych rękach
+  desc_2: W międzyczasie, zrelaksuj się i pozwól nam działać. skup się na tym na czym znasz się najlepiej - na swoim produkcie! 
+  desc_3: Razem, zbudujemy twój sukces! 
+not-found: Nie znaleziono
+reserved_rights: Wszelkie prawa zastrzeżone.
+country:
+  poland: Polska
+  france: Francja
+  switzerland: Szwajcaria
