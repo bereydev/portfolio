@@ -41,7 +41,7 @@ const { t } = useI18n()
             </p>
             <div class="relative flex flex-col sm:flex-row sm:space-x-4">
               <a
-                href="https://calendly.com/bereydev" target="_blank"
+                href="https://calendar.app.google/Xn2MhD3qpW3LRmDa6" target="_blank"
                 class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-purple-500 rounded-full sm:mb-0 hover:bg-purple-700 sm:w-auto"
               >
                 {{ t('button.talk') }}
@@ -170,7 +170,7 @@ const { t } = useI18n()
   <section class="bg-white">
     <div class="container flex flex-row justify-center items-center max-w-6xl px-8 mx-auto xl:px-5">
       <a
-        href="https://calendly.com/bereydev" target="_blank"
+        href="https://calendar.app.google/Xn2MhD3qpW3LRmDa6" target="_blank"
         class="flex items-center w-full px-6 py-3 mb-3 text-lg text-white bg-purple-500 rounded-full sm:mb-0 hover:bg-purple-700 sm:w-auto"
       >
         {{ t('button.book_meeting') }}
